@@ -37,7 +37,7 @@ public class SwaggerConfig {
                 "API REST de cadastro de pessoas.",
                 "1.0",
                 "Terms of Service",
-                new Contact("Vinicius Frois", "https://github.com/viniciusfrois/apirest-cadastro-pessoas",
+                new Contact("Vinicius Frois", "https://github.com/viniciusfrois/restapi-cadastro-pessoa",
                         "viniifrois@gmail.com"),
                 "Apache License Version 2.0",
                 "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>());
